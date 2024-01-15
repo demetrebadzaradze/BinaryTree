@@ -1,6 +1,6 @@
 using System;
 
-namespace Csharpproject
+namespace BinaryTree
 {
     class Program
     {
@@ -19,7 +19,7 @@ namespace Csharpproject
             Console.WriteLine(bt.Root.Left.Value);
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine();
+            Console.WriteLine();        
             Console.WriteLine();
             Console.WriteLine();
         }
